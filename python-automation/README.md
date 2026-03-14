@@ -1,0 +1,6 @@
+# 🐍 Python Automation | The Jade Logic
+
+Este espaço é o pavilhão das minhas automações. Cada script aqui foi desenvolvido por **Leiliane Vieira de Sousa (维莲玉)** com foco em alta precisão.
+
+---
+*Propriedade Intelectual Protegida pela Lógica de Jade.*
