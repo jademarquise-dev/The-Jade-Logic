@@ -1,6 +1,6 @@
 # 💎 SQL Queries | The Jade Logic
 
-Este espaço é dedicado à arquitetura e consulta de bases de dados. Cada estrutura aqui foi desenhada por **Leiliane Vieira de Sousa (维莲玉)** com foco em integridade e precisão absoluta.
+This space is dedicated to database architecture and advanced queries. Each structure was designed by **Leiliane Vieira de Sousa (维莲玉)** focusing on absolute integrity and data precision.
 
 ---
-*Propriedade Intelectual Protegida pela Lógica de Jade.*
+*Intellectual Property Protected by the Jade Logic.*
